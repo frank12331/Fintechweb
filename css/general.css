@@ -1,0 +1,26 @@
+body {
+  background-color:white;
+}
+
+
+.block1{
+	background-image: url("../img/first_background.png");
+	background-size:100vw;
+	width:100vw;
+	height:42.8vw;
+}
+
+.block2{
+	background-color : #2A242A;
+	top: 42.8vw;
+	width:100vw;
+	height:42.8vw;
+}
+
+.block3{
+	background-color : #F1E569;
+	top: 85.6vw;	
+	background-size:100vw;		
+	width:100vw;
+	height:30vw;
+}
