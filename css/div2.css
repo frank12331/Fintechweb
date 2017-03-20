@@ -2,21 +2,21 @@
 	display:flex;		
 	position:absolute;
 	left:18vw;	
-	top:52.8vw;	
+	top:54vw;	
 	height:60%;
 	width:70%;
 	font-family:"Calibri";
 }
 .feature{
 	position:absolute;	
-	top:-7vw;	
+	top:-8vw;	
 	left:24vw;		
 	color:orange;
 	font-size:4vw;
 }
 
 .feature_icon{
-		top:52vw;		
+		top:50vw;		
 		margin: 0vw 5.4vw 0vw 0vw;	
 		width:11%;	
 		height:30px;
